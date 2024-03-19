@@ -1,2 +1,2 @@
-# pr-ticas-de-engenharia
+# praticas-de-engenharia
 Repositório da disciplina.
